@@ -1,4 +1,3 @@
-# Remove SubCouncil2016, Wards2016, OfficialSuburbs, Code and h3_level8_index
 # -*- coding: utf-8 -*-
 """
 Created on 17 June 2021
